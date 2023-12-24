@@ -6,37 +6,37 @@
     box-sizing: border-box;
   }
   
-  .login-page-container {
+  .SignUp-page-container {
     display: flex;
   }
 
- .login-container {
+ .SignUp-container {
     width: 50%;
     height: 100vh;
-    padding-top: 18%; 
+    padding-top: 14%; 
     box-sizing: border-box;
   }
 
-  .login-container form, h2 {
+  .SignUp-container form, h2 {
     padding: 10px;
     max-width: 300px;
     margin: 0 auto; 
   }
 
 
-  .login-container label {
+  .SignUp-container label {
     display: block;
     margin-bottom: 10px;
   }
 
-  .login-container input {
+  .SignUp-container input {
     width: 100%;
     padding: 8px;
     margin-bottom: 15px;
     box-sizing: border-box;
   }
 
-  .login-container button {
+  .SignUp-container button {
     width: 100%;
     padding: 10px;
     background-color: #007bff;
@@ -46,7 +46,7 @@
     cursor: pointer;
   }
 
-  .login-container button:hover {
+  .SignUp-container button:hover {
     background-color: #0056b3;
   } 
   
